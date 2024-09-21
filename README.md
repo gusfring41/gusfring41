@@ -3,8 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alves-96337a298/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/gusfring.a@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![gusfring 41 GitHub stats](https://github-readme-stats.vercel.app/api?username=gusfring41&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusfring41)](https://github.com/gusfring41/github-readme-stats)
 
 ## Tecnologias que eu utilizo no dia a dia:
 
