@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  🏆 88º entre 963 times no ICPC 2026 · Specialist no <a href="https://codeforces.com/profile/gus137">Codeforces</a><br>
-  🔬 Pesquisa em filtros probabilísticos (PIBIC) e no <a href="https://github.com/GUIA-DD">Projeto GUIA</a>
+   88º entre 963 times no ICPC 2026 · Specialist no <a href="https://codeforces.com/profile/gus137">Codeforces</a><br>
+   Pesquisa em filtros probabilísticos (PIBIC) e no <a href="https://github.com/GUIA-DD">Projeto GUIA</a>
 </p>
 
 <p align="center">
