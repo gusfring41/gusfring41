@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1F8ACB&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Gustavo+%F0%9F%91%8B;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UnB" alt="Olá! Eu sou o Gustavo" />
+  <img src="assets/banner.svg" alt="Gustavo Alves Dias" width="100%" />
 </p>
 
 <p align="center">
